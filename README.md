@@ -2,7 +2,7 @@
 
 ### Here are some stats 😍
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nullableint&langs_count=10&hide=Gettext%20Catalog&layout=compact)}
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nullableint&langs_count=10&hide=Gettext%20Catalog&layout=compact)]
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nullableint)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
