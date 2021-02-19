@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I hope you like it.
+I do.
+
+It should be great.
