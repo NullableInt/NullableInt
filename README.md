@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I hope you like it.
+I hope you like them.
 I do.
-
-It should be great.
+⚡ (●'◡'●)
