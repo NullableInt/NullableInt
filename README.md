@@ -1,27 +1,36 @@
-### Hello there
+<div align="center">
 
-### Here are some stats 😍
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NullableInt&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Hello%20there%20%F0%9F%91%8B&descAlignY=58" alt="NullableInt banner" />
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nullableint&langs_count=10&hide=Gettext%20Catalog&layout=compact)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nullableint)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;Welcome+to+my+profile;I+hope+you+like+it.)](https://github.com/NullableInt)
 
-<!--
-**NullableInt/NullableInt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=nullableint&style=for-the-badge&color=8b5cf6)
+![Followers](https://img.shields.io/github/followers/nullableint?style=for-the-badge&logo=github&color=8b5cf6)
 
+</div>
 
+---
 
-Here are some ideas to get you started:
+## 📊 Here are some stats 😍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nullableint&show_icons=true&theme=radical&hide_border=true" />
+</a>
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullableint&langs_count=10&hide=Gettext%20Catalog&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
 
 I hope you like them.
 I do.
-⚡ (●'◡'●)
+
+⚡ (●'◡'●) ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="" />
+
+</div>
