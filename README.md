@@ -16,9 +16,9 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nullableint&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" alt="My GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=nullableint&show_icons=true&theme=radical&hide_border=true" />
 </a>
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullableint&langs_count=10&hide=Gettext%20Catalog&layout=compact&theme=radical&hide_border=true" />
+<img height="180" alt="Top languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nullableint&langs_count=10&hide=Gettext%20Catalog&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
